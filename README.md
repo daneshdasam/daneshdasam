@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daneshdasam
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Pandas in Python & VBA in Excel
+- 🌱 I’m currently learning Data Analysis Libraries in Python & VBA in Excel
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me - daneshdattadasam@gmail.com
 - ⚡ Have a Great Day ( Don't Forget to checkout my Personal projects Repository)
